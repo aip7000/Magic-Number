@@ -51,13 +51,13 @@ h1{
     text-align: center;
 }
 
-.buttons{
+/* .buttons{
     display: flex;
     justify-content: center;
     margin: 20px;
     height: 20%;
-}
-#follow{
+} */
+/* #follow{
     background-color: rgb(186, 180, 3);
     border: none;
     width: 30%;
@@ -95,7 +95,7 @@ h1{
 
 #message:active{
     background-color: rgb(244, 243, 216);
-}
+} */
 
 @media (max-width: 1250px) {
     .card-container{
@@ -126,7 +126,7 @@ h1{
         text-align: center;
     }
 
-    #message{
+    /* #message{
         background-color: rgb(186, 180, 3);
         border: none;
         width: 30%;
@@ -147,6 +147,6 @@ h1{
         font-size: 2em;
         border-radius: 25px;
         color: white;
-        transition: 1.2s;
+        transition: 1.2s; */
     }
 }
